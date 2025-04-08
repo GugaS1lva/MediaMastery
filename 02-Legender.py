@@ -59,11 +59,11 @@ def generate_subtitles(segments, max_words):
 def print_ascii_examples():
     example_sm = (
         "SM - Small (máximo 5 palavras por entrada):\n"
-        "  +-----------------------------------------+\n"
-        "  | 1                                       |\n"
-        "  | 00:00:00,000 --> 00:00:02,000           |\n"
-        "  | Iai galerinha, beleza?                  |\n"
-        "  +-----------------------------------------+\n"
+        "  +--------------------------------+\n"
+        "  | 1                              |\n"
+        "  | 00:00:00,000 --> 00:00:02,000  |\n"
+        "  | Iai galerinha, beleza?         |\n"
+        "  +--------------------------------+\n"
     )
     example_md = (
         "MD - Medium (máximo 10 palavras por entrada):\n"
