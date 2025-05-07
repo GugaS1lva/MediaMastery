@@ -21,7 +21,7 @@ def baixar_video(url):
         print("Download concluído!")
 
     except Exception as e:
-        print("Deu um erro:", e)
+        print("Deu ruim mermo:", e)
 
 # Download single videos.
 urls = ["https://www.youtube.com/watch?v=HNV3vSOUkew"]
