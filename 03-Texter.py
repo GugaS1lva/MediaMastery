@@ -14,8 +14,8 @@ def slugify(value):
     return value
 
 def process_videos():
-    videos_folder = "01-videos"
-    texts_folder = "03-textos"
+    videos_folder = "i-videos"
+    texts_folder = "iii-textos"
     
     if not os.path.exists(texts_folder):
         os.makedirs(texts_folder)

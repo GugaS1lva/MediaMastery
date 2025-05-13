@@ -5,7 +5,7 @@ def baixar_video(url):
     try:
         ydl_opts = {
             'format': 'best',
-            'outtmpl': '01-videos/%(title)s.%(ext)s',
+            'outtmpl': 'i-videos/%(title)s.%(ext)s',
             'socket_timeout': 30,   # tempo em segundos (aumente se tiver quebrando)
             # 'retries': 3          # número de tentativas, caso continue
         }
@@ -23,10 +23,10 @@ def baixar_video(url):
     except Exception as e:
         print("Deu ruim mermo:", e)
 
-# Download single videos.
+# Download vídeos únicos.
 urls = ["https://www.youtube.com/watch?v=HNV3vSOUkew"]
 
-# Download multiple videos.    
+# Download vídeos multiplos.    
 # urls = [
 #     "https://youtu.be/bSR-iWChMhs?si=mT-VYygghXPonIIB",
 #     "https://www.youtube.com/live/WtVI5mLHjtE",
@@ -35,6 +35,3 @@ urls = ["https://www.youtube.com/watch?v=HNV3vSOUkew"]
 
 for url in urls:
     baixar_video(url)
- 
-# test url video below
-# https://www.youtube.com/watch?v=EF889gHjZu8

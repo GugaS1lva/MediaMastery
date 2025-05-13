@@ -95,8 +95,8 @@ def process_videos():
     03 - Cada entrada de legenda vai ter no máximo o número de palavras definido pela opção escolhida.
     04 - O arquivo SRT é salvo na pasta 'legendas/' com o mesmo nome do vídeo (slugificado).
     """
-    videos_folder = "01-videos"
-    subtitles_folder = "02-legendas"
+    videos_folder = "i-videos"
+    subtitles_folder = "ii-legendas"
     
     if not os.path.exists(subtitles_folder):
         os.makedirs(subtitles_folder)
