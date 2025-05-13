@@ -1,248 +1,500 @@
 1
-00:00:00,000 --> 00:00:02,439
-Olha isso aqui. Isso é uma das coisas mais deliciosas que eu já vi nos
+00:00:00,000 --> 00:00:01,219
+Olha isso aqui. Isso é
 
 2
-00:00:02,439 --> 00:00:04,879
-últimos tempos, tá?
+00:00:01,219 --> 00:00:02,439
+uma das coisas mais deliciosas
 
 3
-00:00:04,879 --> 00:00:08,339
-É uma lente especial que transforma tudo que ela vê em pixel art.
+00:00:02,439 --> 00:00:03,660
+que eu já vi nos
 
 4
-00:00:08,339 --> 00:00:11,190
-Por exemplo, tem a Lua lá atrás, tá aparecendo o Lua aqui um pouquinho, tem
+00:00:03,660 --> 00:00:04,879
+últimos tempos, tá?
 
 5
-00:00:11,190 --> 00:00:14,040
-esse predizão, tá aparecendo aqui essa luz.
+00:00:04,879 --> 00:00:06,033
+É uma lente especial que
 
 6
-00:00:14,040 --> 00:00:16,539
-E não tem energia elétrica rodando nessa lente.
+00:00:06,033 --> 00:00:07,186
+transforma tudo que ela vê
 
 7
+00:00:07,186 --> 00:00:08,339
+em pixel art.
+
+8
+00:00:08,339 --> 00:00:09,480
+Por exemplo, tem a Lua
+
+9
+00:00:09,480 --> 00:00:10,620
+lá atrás, tá aparecendo o
+
+10
+00:00:10,620 --> 00:00:11,759
+Lua aqui um pouquinho, tem
+
+11
+00:00:11,759 --> 00:00:12,900
+esse predizão, tá aparecendo aqui
+
+12
+00:00:12,900 --> 00:00:14,040
+essa luz.
+
+13
+00:00:14,040 --> 00:00:15,289
+E não tem energia elétrica
+
+14
+00:00:15,289 --> 00:00:16,539
+rodando nessa lente.
+
+15
 00:00:16,539 --> 00:00:17,800
 Isso aqui é acrílico.
 
-8
-00:00:17,800 --> 00:00:21,640
-Quem achou essa raridade foi o Rafael Tavares.
-
-9
-00:00:21,640 --> 00:00:24,140
-Ele fez uma publicação aqui no Temerius chamado Uma Lente Que Transforma a Realidade em
-
-10
-00:00:24,140 --> 00:00:26,640
-Pixel Art.
-
-11
-00:00:26,679 --> 00:00:30,480
-Se você gosta de pixel art, eu gosto muito, sou apaixonado.
-
-12
-00:00:30,480 --> 00:00:32,780
-Provavelmente você ficará surpreso com isso.
-
-13
-00:00:32,780 --> 00:00:36,049
-Um japonês chamado Monoli, designer de materiais, PHD em engenharia e especializado em ciência de
-
-14
-00:00:36,049 --> 00:00:39,320
-materiais,
-
-15
-00:00:39,320 --> 00:00:42,100
-criou uma pequena lente de resina acrílica que reduz a resolução dos objetos para os
-
 16
-00:00:42,100 --> 00:00:44,880
-quais você aponta.
+00:00:17,800 --> 00:00:19,719
+Quem achou essa raridade foi
 
 17
-00:00:44,880 --> 00:00:48,120
-Afá, dois tabicões aqui não tem como.
+00:00:19,719 --> 00:00:21,640
+o Rafael Tavares.
 
 18
-00:00:48,120 --> 00:00:51,780
-E pelas redes sociais esse rapaz espoleu algumas imagens bem interessantes.
+00:00:21,640 --> 00:00:22,890
+Ele fez uma publicação aqui
 
 19
+00:00:22,890 --> 00:00:24,140
+no Temerius chamado Uma Lente
+
+20
+00:00:24,140 --> 00:00:25,390
+Que Transforma a Realidade em
+
+21
+00:00:25,390 --> 00:00:26,640
+Pixel Art.
+
+22
+00:00:26,679 --> 00:00:27,946
+Se você gosta de pixel
+
+23
+00:00:27,946 --> 00:00:29,213
+art, eu gosto muito, sou
+
+24
+00:00:29,213 --> 00:00:30,480
+apaixonado.
+
+25
+00:00:30,480 --> 00:00:31,630
+Provavelmente você ficará surpreso com
+
+26
+00:00:31,630 --> 00:00:32,780
+isso.
+
+27
+00:00:32,780 --> 00:00:34,414
+Um japonês chamado Monoli, designer
+
+28
+00:00:34,414 --> 00:00:36,049
+de materiais, PHD em engenharia
+
+29
+00:00:36,049 --> 00:00:37,685
+e especializado em ciência de
+
+30
+00:00:37,685 --> 00:00:39,320
+materiais,
+
+31
+00:00:39,320 --> 00:00:40,710
+criou uma pequena lente de
+
+32
+00:00:40,710 --> 00:00:42,100
+resina acrílica que reduz a
+
+33
+00:00:42,100 --> 00:00:43,490
+resolução dos objetos para os
+
+34
+00:00:43,490 --> 00:00:44,880
+quais você aponta.
+
+35
+00:00:44,880 --> 00:00:46,500
+Afá, dois tabicões aqui não
+
+36
+00:00:46,500 --> 00:00:48,120
+tem como.
+
+37
+00:00:48,120 --> 00:00:49,340
+E pelas redes sociais esse
+
+38
+00:00:49,340 --> 00:00:50,560
+rapaz espoleu algumas imagens bem
+
+39
+00:00:50,560 --> 00:00:51,780
+interessantes.
+
+40
 00:00:51,780 --> 00:00:52,939
 Olha isso daqui.
 
-20
-00:00:53,019 --> 00:00:56,820
-A árvore lá atrás, correto, e o formato dela em pixel art.
+41
+00:00:53,019 --> 00:00:54,286
+A árvore lá atrás, correto,
 
-21
-00:00:56,820 --> 00:01:01,019
-Assim, eu consigo ver que é uma imagem feita em pixel art, né?
+42
+00:00:54,286 --> 00:00:55,553
+e o formato dela em
 
-22
+43
+00:00:55,553 --> 00:00:56,820
+pixel art.
+
+44
+00:00:56,820 --> 00:00:58,219
+Assim, eu consigo ver que
+
+45
+00:00:58,219 --> 00:00:59,619
+é uma imagem feita em
+
+46
+00:00:59,619 --> 00:01:01,019
+pixel art, né?
+
+47
 00:01:01,019 --> 00:01:02,820
 Mas é a realidade, turma.
 
-23
-00:01:02,820 --> 00:01:05,469
-Esse aqui, um outro caso tem um bonequinho aqui atrás e o bonequinho na versão
+48
+00:01:02,820 --> 00:01:04,144
+Esse aqui, um outro caso
 
-24
-00:01:05,469 --> 00:01:08,120
+49
+00:01:04,144 --> 00:01:05,469
+tem um bonequinho aqui atrás
+
+50
+00:01:05,469 --> 00:01:06,795
+e o bonequinho na versão
+
+51
+00:01:06,795 --> 00:01:08,120
 pixel art.
 
-25
-00:01:08,120 --> 00:01:10,120
-Inclusive, esse bonequinho tem umas garrinhas aqui.
+52
+00:01:08,120 --> 00:01:09,120
+Inclusive, esse bonequinho tem umas
 
-26
-00:01:10,120 --> 00:01:11,219
-O que será que é esse aqui?
+53
+00:01:09,120 --> 00:01:10,120
+garrinhas aqui.
 
-27
-00:01:11,219 --> 00:01:14,920
-Outra imagem que me surpreendeu foi essa daqui, com a lua lá atrás.
+54
+00:01:10,120 --> 00:01:10,670
+O que será que é
 
-28
-00:01:14,920 --> 00:01:19,420
-E ela assim, perfeitamente representada aqui com pixel art, tá?
+55
+00:01:10,670 --> 00:01:11,219
+esse aqui?
 
-29
-00:01:19,500 --> 00:01:21,700
-Mas tem também coisas no Instagram que ele publicou.
+56
+00:01:11,219 --> 00:01:12,453
+Outra imagem que me surpreendeu
 
-30
-00:01:21,700 --> 00:01:24,250
-Tem uma bola gigantesca de natal lá atrás e ela é representada em forma de
+57
+00:01:12,453 --> 00:01:13,686
+foi essa daqui, com a
 
-31
-00:01:24,250 --> 00:01:26,799
+58
+00:01:13,686 --> 00:01:14,920
+lua lá atrás.
+
+59
+00:01:14,920 --> 00:01:17,170
+E ela assim, perfeitamente representada
+
+60
+00:01:17,170 --> 00:01:19,420
+aqui com pixel art, tá?
+
+61
+00:01:19,500 --> 00:01:20,599
+Mas tem também coisas no
+
+62
+00:01:20,599 --> 00:01:21,700
+Instagram que ele publicou.
+
+63
+00:01:21,700 --> 00:01:22,974
+Tem uma bola gigantesca de
+
+64
+00:01:22,974 --> 00:01:24,250
+natal lá atrás e ela
+
+65
+00:01:24,250 --> 00:01:25,525
+é representada em forma de
+
+66
+00:01:25,525 --> 00:01:26,799
 pixel art.
 
-32
-00:01:26,799 --> 00:01:30,099
-Essa daqui também ficou dele, sim, é o arco do triunfo lá atrás.
+67
+00:01:26,799 --> 00:01:27,899
+Essa daqui também ficou dele,
 
-33
-00:01:30,099 --> 00:01:32,299
-E ele também é representado em forma de pixel art.
+68
+00:01:27,899 --> 00:01:29,000
+sim, é o arco do
 
-34
-00:01:32,299 --> 00:01:33,500
-Pixel art do arco do triunfo.
+69
+00:01:29,000 --> 00:01:30,099
+triunfo lá atrás.
 
-35
-00:01:33,500 --> 00:01:35,299
-Seria isso aqui, com certeza absoluta.
+70
+00:01:30,099 --> 00:01:31,199
+E ele também é representado
 
-36
-00:01:35,299 --> 00:01:39,900
-Mas talvez a melhor representação do poder dessa lente é nessa imagem aqui.
+71
+00:01:31,199 --> 00:01:32,299
+em forma de pixel art.
 
-37
+72
+00:01:32,299 --> 00:01:32,900
+Pixel art do arco do
+
+73
+00:01:32,900 --> 00:01:33,500
+triunfo.
+
+74
+00:01:33,500 --> 00:01:34,400
+Seria isso aqui, com certeza
+
+75
+00:01:34,400 --> 00:01:35,299
+absoluta.
+
+76
+00:01:35,299 --> 00:01:36,833
+Mas talvez a melhor representação
+
+77
+00:01:36,833 --> 00:01:38,366
+do poder dessa lente é
+
+78
+00:01:38,366 --> 00:01:39,900
+nessa imagem aqui.
+
+79
 00:01:39,900 --> 00:01:41,299
 Olha isso daqui.
 
-38
-00:01:41,299 --> 00:01:43,200
-Que perfeito, o M e o mais.
+80
+00:01:41,299 --> 00:01:42,250
+Que perfeito, o M e
 
-39
-00:01:43,200 --> 00:01:46,900
-Inclusive, ele colocou lado a lado a parte de trás, né?
+81
+00:01:42,250 --> 00:01:43,200
+o mais.
 
-40
+82
+00:01:43,200 --> 00:01:44,433
+Inclusive, ele colocou lado a
+
+83
+00:01:44,433 --> 00:01:45,666
+lado a parte de trás,
+
+84
+00:01:45,666 --> 00:01:46,900
+né?
+
+85
 00:01:46,900 --> 00:01:48,000
 Que estava na lente.
 
-41
-00:01:48,079 --> 00:01:50,079
-Então, vamos voltar aqui para o pixel art.
+86
+00:01:48,079 --> 00:01:49,079
+Então, vamos voltar aqui para
 
-42
+87
+00:01:49,079 --> 00:01:50,079
+o pixel art.
+
+88
 00:01:50,079 --> 00:01:52,079
 Muito, muito massa.
 
-43
-00:01:52,079 --> 00:01:55,579
-Tem outra imagem aqui também com o caractere japonesa, o especulo, né?
+89
+00:01:52,079 --> 00:01:53,246
+Tem outra imagem aqui também
 
-44
-00:01:55,579 --> 00:01:59,879
-E a versão original aqui é muito massa, vai.
+90
+00:01:53,246 --> 00:01:54,413
+com o caractere japonesa, o
 
-45
-00:01:59,879 --> 00:02:03,079
-Só que agora, agora vem a minha imagem favorita.
+91
+00:01:54,413 --> 00:01:55,579
+especulo, né?
 
-46
+92
+00:01:55,579 --> 00:01:57,729
+E a versão original aqui
+
+93
+00:01:57,729 --> 00:01:59,879
+é muito massa, vai.
+
+94
+00:01:59,879 --> 00:02:01,479
+Só que agora, agora vem
+
+95
+00:02:01,479 --> 00:02:03,079
+a minha imagem favorita.
+
+96
 00:02:03,079 --> 00:02:04,579
 Olha isso daqui.
 
-47
-00:02:04,579 --> 00:02:07,780
-Uma flor lá atrás e a representação em pixel art.
+97
+00:02:04,579 --> 00:02:06,180
+Uma flor lá atrás e
 
-48
-00:02:07,780 --> 00:02:09,080
-Por que que é minha favorita?
+98
+00:02:06,180 --> 00:02:07,780
+a representação em pixel art.
 
-49
-00:02:09,080 --> 00:02:13,580
-Porque quando você vai desenhar pixel art, por exemplo, sei lá, gráficos para 16 bits,
+99
+00:02:07,780 --> 00:02:08,430
+Por que que é minha
 
-50
-00:02:13,660 --> 00:02:18,660
-é bem possível que num pasto, num negócio de grama,
+100
+00:02:08,430 --> 00:02:09,080
+favorita?
 
-51
-00:02:18,660 --> 00:02:21,660
-você desenhe as florzinhas exatamente assim.
+101
+00:02:09,080 --> 00:02:10,580
+Porque quando você vai desenhar
 
-52
-00:02:21,660 --> 00:02:25,660
-O curioso é que isso é um produto de verdade chamado Pixlens.
+102
+00:02:10,580 --> 00:02:12,080
+pixel art, por exemplo, sei
 
-53
+103
+00:02:12,080 --> 00:02:13,580
+lá, gráficos para 16 bits,
+
+104
+00:02:13,660 --> 00:02:16,160
+é bem possível que num
+
+105
+00:02:16,160 --> 00:02:18,660
+pasto, num negócio de grama,
+
+106
+00:02:18,660 --> 00:02:20,160
+você desenhe as florzinhas exatamente
+
+107
+00:02:20,160 --> 00:02:21,660
+assim.
+
+108
+00:02:21,660 --> 00:02:22,993
+O curioso é que isso
+
+109
+00:02:22,993 --> 00:02:24,326
+é um produto de verdade
+
+110
+00:02:24,326 --> 00:02:25,660
+chamado Pixlens.
+
+111
 00:02:25,660 --> 00:02:27,660
 Ele custa 14 mil ienes.
 
-54
+112
 00:02:27,660 --> 00:02:29,160
 Deixa eu ver aqui, 14...
 
-55
+113
 00:02:29,160 --> 00:02:32,160
 JPY, ou JPY2, Beliar.
 
-56
+114
 00:02:32,160 --> 00:02:34,160
 Uns 550 reais.
 
-57
-00:02:34,160 --> 00:02:36,160
-Mas que infelizmente está sold out.
+115
+00:02:34,160 --> 00:02:35,160
+Mas que infelizmente está sold
 
-58
-00:02:36,160 --> 00:02:38,310
-Já vendeu tudo, mas você pode pelo menos deixar seu e-mail quando estiver disponível para
+116
+00:02:35,160 --> 00:02:36,160
+out.
 
-59
-00:02:38,310 --> 00:02:40,460
+117
+00:02:36,160 --> 00:02:37,235
+Já vendeu tudo, mas você
+
+118
+00:02:37,235 --> 00:02:38,310
+pode pelo menos deixar seu
+
+119
+00:02:38,310 --> 00:02:39,385
+e-mail quando estiver disponível para
+
+120
+00:02:39,385 --> 00:02:40,460
 ser avisado.
 
-60
-00:02:40,460 --> 00:02:42,960
-Inclusive, ele vem numa caixinha bem delicinha.
+121
+00:02:40,460 --> 00:02:41,710
+Inclusive, ele vem numa caixinha
 
-61
-00:02:43,040 --> 00:02:46,040
-E como sempre, todos os links estão na descrição.
+122
+00:02:41,710 --> 00:02:42,960
+bem delicinha.
 
-62
+123
+00:02:43,040 --> 00:02:44,540
+E como sempre, todos os
+
+124
+00:02:44,540 --> 00:02:46,040
+links estão na descrição.
+
+125
 00:02:46,040 --> 00:02:48,040
 Fechado? Tchau.
 
