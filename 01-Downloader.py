@@ -24,7 +24,7 @@ def baixar_video(url):
         print("Deu ruim mermo:", e)
 
 # Download vídeos únicos.
-urls = ["https://www.youtube.com/watch?v=HNV3vSOUkew"]
+urls = ["https://www.youtube.com/live/pGrriYmvF4A"]
 
 # Download vídeos multiplos.    
 # urls = [
